@@ -2,7 +2,7 @@ import axios from 'axios';
 
 const STATISTICS_API_URL = 'https://www.googleapis.com/youtube/v3/videos';
 const API_URL = 'https://www.googleapis.com/youtube/v3/search';
-const API_KEY = 'AIzaSyDueM0SFoHBYu_4QmudMvmfSoQSFxDrfpQ';
+const API_KEY = '';
 
 
 export const youtubeSearch = (term) => {
